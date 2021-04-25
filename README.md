@@ -1,50 +1,52 @@
 # Project-2-The-Pantry :pencil2: :clipboard::bar_chart:
 
-The Pantry is available [here](https://pantrycheck.herokuapp.com/).
+# This README has been licensed using :
 
-  # This README has been licensed using :
-  [![License Badge](https://img.shields.io/static/v1?label=License&message=Unlicense&color=blue)]
-    
+[![License Badge](https://img.shields.io/static/v1?label=License&message=Unlicense&color=blue)]
+
 # Authors: Tracey Saada,Harry Stead, Babak Bigdeli, Jessica O'keeffe
-        
- ## Table of Contents
-  *[Description](#description)
-  
-  * [Installation](#instalation)
-     
-    * [Usage](#usage)
 
-    * [License](#license)  
+## Table of Contents
 
-    * [Language](#language)
+\*[Description](#description)
 
-    * [Questions](#questions)
-          
+- [Installation](#instalation)
 
-    ## Description:
-    an app to help keep track of food in your kitchen and track waste
+  - [Usage](#usage)
 
-    ## Installation:
-    
+  - [License](#license)
 
-    ## Usage:
-    to help reduce waste and make shopping trips more efficient
+  - [Language](#language)
 
-    ## The following license has been used:
-    Unlicense
+  - [Questions](#questions)
 
+  ## Description:
 
-    ## Github:
-    https://github.com/traceysaada/Project-2-The-Pantry 
-    [GitHub](https://github.com/https://github.com/traceysaada/Project-2-The-Pantry)
+  an app to help keep track of food in your kitchen and track waste
 
-    ## language used:
-    Javascript,HTML,CSS
+  ## Installation:
 
-    ## Questions:
-    Contact Tracey Saada,Harry Stead, Babak Bigdeli, Jessica O'keeffe with any questions at 
+  The app is deployed on Heroku so just entey https://pantrycheck.herokuapp.com/ in your browser's address bar and hit enter.
 
-    # [![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)]
+  ## Usage:
 
-   
-        
+  to help reduce waste and make shopping trips more efficient
+
+  ## The following license has been used:
+
+  Unlicense
+
+  ## Github:
+
+  https://github.com/traceysaada/Project-2-The-Pantry
+  [GitHub](https://github.com/https://github.com/traceysaada/Project-2-The-Pantry)
+
+  ## language used:
+
+  Javascript,HTML,CSS
+
+  ## Questions:
+
+  Contact Tracey Saada,Harry Stead, Babak Bigdeli, Jessica O'keeffe with any questions at
+
+  # [![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)]
